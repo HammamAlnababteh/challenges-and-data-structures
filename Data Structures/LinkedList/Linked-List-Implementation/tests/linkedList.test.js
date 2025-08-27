@@ -1,4 +1,4 @@
-const linkedList = require("./linkedList");
+const linkedList = require("../linkedList");
 
 describe("LinkedList",()=>{
 
