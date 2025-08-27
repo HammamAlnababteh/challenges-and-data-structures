@@ -60,12 +60,12 @@ list.printList(); // Output: 40 -> 30 -> 20 -> 10 -> null
 
 ##  Whiteboard Explanation
 
-![Whiteboard](C:\Users\saleh\Desktop\callenges-data\challenges-and-data-structures\Data Structures\LinkedList\Linked-List-Implementation\Imges\reverse-function-whiteboard.png)
+![Whiteboard](https://github.com/HammamAlnababteh/challenges-and-data-structures/blob/Reverse-LinkedList/Data%20Structures/LinkedList/Linked-List-Implementation/Imges/reverse-function-whiteboard.png?raw=true)
 
 ---
 
 ##  Test Results
 
-![Test Results](C:\Users\saleh\Desktop\callenges-data\challenges-and-data-structures\Data Structures\LinkedList\Linked-List-Implementation\Imges\console -Reverse-jest.png)
+![Test Results]()
 
 ---
