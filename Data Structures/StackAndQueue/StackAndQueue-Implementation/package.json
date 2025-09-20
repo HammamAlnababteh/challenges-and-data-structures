@@ -1,0 +1,19 @@
+{
+  "name": "stack-and-queue",
+  "version": "1.0.0",
+  "description": "Implementation of Stack and Queue with Jest tests",
+  "main": "stack.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "stack",
+    "queue",
+    "data-structures"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
