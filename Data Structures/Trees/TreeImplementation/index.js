@@ -13,7 +13,7 @@ function demoBinaryTree() {
     console.log('PreOrder:', bt.preOrder());
     console.log('InOrder: ', bt.inOrder());
     console.log('PostOrder:', bt.postOrder());
-    console.log('Structured Print:');
+    console.log('Structured print:');
     bt.print();
 }
 
