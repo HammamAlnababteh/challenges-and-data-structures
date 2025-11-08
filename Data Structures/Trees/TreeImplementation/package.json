@@ -1,0 +1,19 @@
+{
+  "name": "treeimplementation",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This repository contains implementations of Binary Tree and Binary Search Tree (BST) in JavaScript. Each class has methods for adding, removing, traversing, and manipulating nodes.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
