@@ -1,5 +1,6 @@
-const BinaryTree = require('../BinaryTree');
-const SecondMax = require('../SecondMaxValue/SecondMax');
+import { BinaryTree } from '../BinaryTree.js';
+import SecondMax from '../SecondMaxValue/SecondMax.js';
+
 test('Second largest in simple BinaryTree', () => {
     const tree = new BinaryTree(10);
     tree.add(5);
